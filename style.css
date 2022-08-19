@@ -1,4 +1,51 @@
 .header{
-color:#0000FF
-font-size:24
+	color: #4b0082;
+	font-size: 16px;
+	background-color: #E6E6FA;
+	padding: 10px;
+}
+.h1{
+	color: #4B0082;
+	font-size: 40px;
+}
+.text{
+	color: #9935CC;
+	font-size: 16px;
+	text-decoration: underline
+}
+.lin:hover {
+	color: #ff0000;
+	text-decoration: none;
+}
+.feedback{
+	color: #4b0082;
+	font-size: 30px;
+	padding-bottom: 40px;
+	background-color: #E6E6FA;
+	
+}
+.container {
+	width: 960px;
+	text-align: center;
+	margin: 70px auto;
+	border: 2px solid #000080;
+	border-radius: 00%;
+}
+.form__input{
+	display: block;
+	margin: auto;
+	width: 400px;
+	background: white;
+	border: 1px solid;
+	font-size: 14px;
+	padding: 10px 14px;
+	margin-bottom: 10px;
+}
+.form__botton{
+	width: 400px;
+	background: black;
+	font-size: 14px;
+	border: 0;
+	padding: 10px;
+	color: white;
 }
